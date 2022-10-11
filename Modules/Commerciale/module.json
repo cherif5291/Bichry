@@ -1,0 +1,15 @@
+{
+    "name": "Commerciale",
+    "alias": "commerciale",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Commerciale\\Providers\\CommercialeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Helpers/Helper.php"
+    ],
+    "requires": []
+}

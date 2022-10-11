@@ -1,0 +1,15 @@
+{
+    "name": "Depense",
+    "alias": "depense",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Depense\\Providers\\DepenseServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Helpers/Helper.php"
+    ],
+    "requires": []
+}
